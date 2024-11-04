@@ -7,10 +7,10 @@
 ## Проекты
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
-|AB-тестирование новой рекламной кампании  (__[github](https://github.com/Alenona/Ad_campaign_AB_test)__)|Выбор, расчет продуктовых метрик (Conversion Rate, САС). Проверка гипотез, анализ результатов А/B-теста (критерий Манна-Уитни, T-test).|pandas, seaborn,  matplotlib|
-|Анализ продаж кофе по типам  (__[github](https://github.com/Alenona/Coffee_sales_analysis)__)|Расчет и анализ продуктовых метрик. Создание дашборда.|pandas, Tableau|
-|Анализ продаж интернет-магазина  (__[github](https://github.com/Alenona/First_project)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas, matplotlib, seaborn, numpy|
-|Анализ эффективности новой механики оплаты услуг.  (__[github](https://github.com/Alenona/Final_project)__)|Расчет ARPPU, ARPU и CR. Bootstrap и критерий хи-квадрат. Функции загрузки доп. информации, подсчёта метрик и построения графиков. Подсчёт метрик через SQL-запросы.|pandas,seaborn,matplotlib,requests|
+|AB-тестирование новой рекламной кампании  (__[github](https://github.com/Alenona/Ad_campaign_AB_test)__)|Выбор, расчет продуктовых метрик (Conversion Rate, САС). Проверка гипотез, анализ результатов А/B-теста (критерий Манна-Уитни, T-test).|pandas,seaborn,matplotlib|
+|Анализ продаж кофе по типам  (__[github](https://github.com/Alenona/Coffee_sales_analysis)__)|Расчет и анализ продуктовых метрик. Создание дашборда.|pandas,Tableau|
+|Анализ продаж интернет-магазина  (__[github](https://github.com/Alenona/First_project)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas,matplotlib,seaborn,numpy|
+|Анализ эффективности новой механики оплаты услуг.  (__[github](https://github.com/Alenona/Final_project)__)|Расчет ARPPU, ARPU и CR. Bootstrap и критерий хи-квадрат. Функции загрузки доп. информации, подсчёта метрик и построения графиков. Подсчёт метрик через SQL-запросы.|pandas,seaborn,matplotlib,requests,SQL,ClickHouse,PostgreSQL|
 
 ## Мои навыки
 - Языки программирования: Python, SQL
